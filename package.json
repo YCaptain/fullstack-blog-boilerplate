@@ -1,0 +1,8 @@
+{
+  "name": "fullstack-blog-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YCaptain/fullstack-blog-boilerplate.git",
+  "author": "YCaptain <cz.ycaptain@gmail.com>",
+  "license": "MIT"
+}
