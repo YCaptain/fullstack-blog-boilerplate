@@ -18,3 +18,5 @@ logs/
 !.vscode/extensions.json
 
 .DS_Store
+
+.next/
