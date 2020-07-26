@@ -1,0 +1,9 @@
+config:
+  author: YCaptain
+  siteName: YCaptain's Blog
+  siteDescription: The personal blog of YCaptain
+
+  navigation:
+    - { text: Home, link: / }
+    - { text: Blog, link: /blog }
+    - { text: About, link: /about }

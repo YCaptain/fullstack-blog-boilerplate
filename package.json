@@ -9,6 +9,7 @@
     "dev": "next dev"
   },
   "dependencies": {
+    "js-yaml-loader": "^1.2.2",
     "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
